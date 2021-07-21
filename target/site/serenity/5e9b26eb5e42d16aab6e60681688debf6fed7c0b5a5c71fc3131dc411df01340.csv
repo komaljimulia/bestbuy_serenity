@@ -1,0 +1,2 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Product CURD test with steps","This test will update the product information and verify the updated information","FAILURE","2021-07-20T21:54:17.617+01:00[Europe/London]","0.0","0.17"
